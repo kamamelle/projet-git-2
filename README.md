@@ -1,4 +1,7 @@
 # projet-git-2
-Participant : Ashpreet
-Participant : Kamel 
+  
+Participant : Kamel
+
 Participant : Vincent
+
+Participant : Ashpreet
