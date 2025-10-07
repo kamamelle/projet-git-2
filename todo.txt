@@ -8,4 +8,4 @@
 7. Suivre l’avancement des tâches
 8. Réviser et ajuster le plan selon les besoins
 9. Archiver les tâches terminées
-10. Faire un bilan du projet sur Trello
+10. Faire un bilan du projet sur Trello.
