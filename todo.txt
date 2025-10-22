@@ -1,0 +1,11 @@
+# todo.txt
+1. Créer un tableau Trello pour le projet
+2. Ajouter les membres de l’équipe au tableau
+3. Définir les listes (À faire, En cours, Terminé)
+4. Ajouter les tâches principales du projet
+5. Attribuer les tâches aux membres
+6. Fixer des dates d’échéance pour chaque tâche
+7. Suivre l’avancement des tâches
+8. Réviser et ajuster le plan selon les besoins
+9. Archiver les tâches terminées
+10. Faire un bilan du projet sur Trello.
